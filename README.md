@@ -1,8 +1,9 @@
 # LLM Gene Selection Prompt Sensitivity
 
-This repository contains code and evaluation outputs for the paper:
+This repository contains code and evaluation outputs for the paper: "Stability Does Not Imply Correctness: Prompt Sensitivity in LLM-based Gene Selection."
 
-"Stability Does Not Imply Correctness: Prompt Sensitivity in LLM-based Gene Selection."
+
+This repository contains prompts, raw LLM outputs, and evaluation scripts used to analyze prompt sensitivity in LLM-based gene prioritization tasks using a fixed DESeq2 reference.
 
 ## Repository Structure
 
