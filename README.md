@@ -43,6 +43,10 @@ Rscript scripts/run_analysis.R
 
 Running `scripts/run_analysis.R` will recompute all metrics and figures from the raw outputs.
 
+## Data
+
+Differential expression reference tables were derived from the NSCLC tumor-draining lymph node dataset: GEO accession: GSE239514
+
 ## License
 
 MIT License
