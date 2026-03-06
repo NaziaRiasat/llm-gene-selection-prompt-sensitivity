@@ -1,6 +1,3 @@
-# llm-gene-selection-prompt-sensitivity
-Code and evaluation outputs for “Stability Does Not Imply Correctness: Prompt Sensitivity in LLM-based Gene Selection”.
-
 # LLM Gene Selection Prompt Sensitivity
 
 This repository contains code and evaluation outputs for the paper:
