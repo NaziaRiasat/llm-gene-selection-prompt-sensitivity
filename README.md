@@ -30,6 +30,17 @@ Claude Opus 4.5
 
 ## Reproducibility
 
+## Quick start
+
+1. Install R (>=4.2)
+2. Install required packages:
+
+install.packages(c("jsonlite","tidyverse","data.table"))
+
+3. Run:
+
+Rscript scripts/run_analysis.R
+
 Running `scripts/run_analysis.R` will recompute all metrics and figures from the raw outputs.
 
 ## License
