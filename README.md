@@ -47,6 +47,13 @@ Running `scripts/run_analysis.R` will recompute all metrics and figures from the
 
 Differential expression reference tables were derived from the NSCLC tumor-draining lymph node dataset: GEO accession: GSE239514
 
+## Citation
+
+If you use this code, please cite:
+
+Stability Does Not Imply Correctness: Prompt Sensitivity in LLM-based Gene Selection.
+ICLR 2026 Workshop: I Can't Believe It's Not Better.
+
 ## License
 
 MIT License
