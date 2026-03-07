@@ -70,6 +70,9 @@ Differential expression reference tables were derived from the NSCLC tumor-drain
 
 If you use this code, please cite:
 
+Code, prompts, raw LLM outputs, and evaluation scripts are available at:
+https://github.com/NaziaRiasat/llm-prompt-sensitivity
+
 Stability Does Not Imply Correctness: Prompt Sensitivity in LLM-based Gene Selection.
 ICLR 2026 Workshop: I Can't Believe It's Not Better.
 
