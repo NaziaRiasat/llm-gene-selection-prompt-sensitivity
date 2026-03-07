@@ -43,6 +43,25 @@ Rscript scripts/run_analysis.R
 
 Running `scripts/run_analysis.R` will recompute all metrics and figures from the raw outputs.
 
+## Reproducing Results
+
+1. Ground truth DESeq2 tables are in `data/`.
+2. Prompt templates are in `prompts/`.
+3. Raw LLM outputs are stored in `outputs/`.
+4. Run the evaluation script:
+
+   Rscript scripts/llm_score_output.R
+
+This script computes:
+- precision
+- recall
+- Jaccard similarity
+- overlap coefficient
+- exact match rate
+
+and generates the summary statistics used in the paper.
+
+
 ## Data
 
 Differential expression reference tables were derived from the NSCLC tumor-draining lymph node dataset: GEO accession: GSE239514
