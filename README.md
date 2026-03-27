@@ -1,6 +1,7 @@
 # LLM Gene Selection Prompt Sensitivity
 
-This repository contains code and evaluation outputs for the paper: "Stability Does Not Imply Correctness: Prompt Sensitivity in LLM-based Gene Selection."
+This repository contains code and evaluation outputs for the paper: "WHEN STABILITY FAILS: HIDDEN FAILURE MODES
+OF LLMS IN DATA-CONSTRAINED SCIENTIFIC DECISION-MAKING."
 Url: https://arxiv.org/pdf/2603.15840
 
 This repository contains prompts, raw LLM outputs, and evaluation scripts used to analyze prompt sensitivity in LLM-based gene prioritization tasks using a fixed DESeq2 reference.
@@ -73,7 +74,7 @@ If you use this code, please cite:
 Code, prompts, raw LLM outputs, and evaluation scripts are available at:
 https://github.com/NaziaRiasat/llm-prompt-sensitivity
 
-Stability Does Not Imply Correctness: Prompt Sensitivity in LLM-based Gene Selection.
+WHEN STABILITY FAILS: HIDDEN FAILURE MODES OF LLMS IN DATA-CONSTRAINED SCIENTIFIC DECISION-MAKING
 ICLR 2026 Workshop: I Can't Believe It's Not Better.
 
 ## License
