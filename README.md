@@ -6,30 +6,12 @@ Url: https://arxiv.org/pdf/2603.15840
 
 This repository contains prompts, raw LLM outputs, and evaluation scripts used to analyze prompt sensitivity in LLM-based gene prioritization tasks using a fixed DESeq2 reference.
 
-## Repository Structure
-
-data/
-DESeq2 reference tables used as statistical ground truth.
-
-prompts/
-All prompt templates used in the experiments.
-
-outputs/
-Raw LLM responses for each model and prompt configuration.
-
-scripts/
-R scripts used to compute Jaccard similarity and overlap coefficients.
-
-figures/
-Plots included in the paper.
-
 ## Models evaluated
 
 ChatGPT (GPT-5.2)  
 Gemini 3  
 Claude Opus 4.5
 
-## Reproducibility
 
 ## Quick start
 
